@@ -1,2 +1,0 @@
-# quoteApp
-Created with CodeSandbox
